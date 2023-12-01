@@ -1,0 +1,10 @@
+protein_type
+essential
+predictsnp
+essential_residues_all
+conservation
+msa_data
+cytoplasmic
+extracellular
+other
+transmembrane

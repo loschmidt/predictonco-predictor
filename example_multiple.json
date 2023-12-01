@@ -1,0 +1,24 @@
+[
+    {
+        "id": "cdk4_P251H",
+        "structure": false,
+        "protein_type": "PROTO_ONCOGENE",
+        "essential": false,
+        "domain": "cytoplasmic",
+        "predictsnp": 17.0,
+        "essential_residues_all": 3,
+        "conservation": 6,
+        "msa_data": 0.6357
+    },
+    {
+        "id": "cdk4_R255C",
+        "structure": false,
+        "protein_type": "PROTO_ONCOGENE",
+        "essential": false,
+        "domain": "cytoplasmic",
+        "predictsnp": 40.0,
+        "essential_residues_all": 3,
+        "conservation": 6,
+        "msa_data": 0.631209723739216
+    }
+]

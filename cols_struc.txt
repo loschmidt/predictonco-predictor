@@ -1,0 +1,12 @@
+pocket
+foldx
+rosetta
+pka_num
+pka_min
+pka_max
+protein_type
+essential
+predictsnp
+essential_residues_all
+conservation
+msa_data

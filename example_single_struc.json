@@ -1,0 +1,19 @@
+{
+    "id": "acvr1_R206H",
+    "structure": true,
+
+    "protein_type": "PROTO_ONCOGENE",
+    "essential": false,
+    "domain": "cytoplasmic",
+    "predictsnp": 61.0,
+    "essential_residues_all": 4,
+    "conservation": 4,
+    "msa_data": 0.8537,
+
+    "pocket": false,
+    "foldx": 0.6,
+    "rosetta": 3.8,
+    "pka_num": 3,
+    "pka_min": -0.17,
+    "pka_max": 0.13
+}
